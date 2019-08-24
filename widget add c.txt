@@ -1,0 +1,6 @@
+add_theme_support( 'customize-selective-refresh-widgets' );
+Widgets -- customizes
+
+widget file include 
+require_once get_template_directory() .'/inc/allwidgets.php';
+
