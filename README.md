@@ -1,0 +1,2 @@
+# widgets
+add-theme-support
